@@ -1,3 +1,23 @@
+## 💼 __PROJECT__ __NAME__ 💼 __:__ __SHOP__ __HOMEPAGE__  
+---------------------------------------------------------------------------------------------------------------
+### 📽️ __LIVE__ __DEMO__ __LINK__ 📽️ __:__ "https://precious-phoenix-d20d8f.netlify.app/"
+---------------------------------------------------------------------------------------------------------------
+### 📄 __PROJECT__ DESCRIPTION 📄 __:__ This is an Front End Project to display a website of Products,Prices,Ratings,Carts which makes easy for customers.
+---------------------------------------------------------------------------------------------------------------
+### ⚙️ __REALTIME__ USAGE ⚙️ __:__ E-commerce website, Jewellery website
+---------------------------------------------------------------------------------------------------------------
+### 💻 __TECHNICAL__ SPECIFICATIONS 💻 __:__
+* HTML
+* CSS
+* BOOTSTRAP
+* REACT JS
+* JSX
+* PROPS & STATE COMPONENTS
+---------------------------------------------------------------------------------------------------------------
+### 📷 __IMAGES__ 📷 __:__
+---------------------------------------------------------------------------------------------------------------
+### If you like it remember to give repo a star ⭐.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
